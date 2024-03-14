@@ -1,0 +1,19 @@
+#navbar{
+    flex-direction: column;  
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    overflow: hidden; /* mobilde hover olduğu zaman taşmaları engellemek için */
+    height: 90px;
+}
+#skills .items{
+    flex-direction: column;
+}
+#skills .items .item{
+    width: 100%;
+}
+.language {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
